@@ -1,0 +1,9 @@
+node_modules/
+*.js
+*.zip
+.cache/
+uploads/
+.DS_Store
+.vscode/
+push.sh
+.sudo_as_admin_successful
